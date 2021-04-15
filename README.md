@@ -1,7 +1,7 @@
 # Similar
 <h2>Similar - Logic Design &amp; Simulation</h2>
 
-Logic Design and Simulation, powered by FH-Hagenberg, <a href=https://www.fh-ooe.at/hsd>Hardware-Software-Design, Austria</a>. <br>
+<h3>powered by FH-Hagenberg, <a href=https://www.fh-ooe.at/hsd>Hardware-Software-Design, Austria</a>. </h3><br>
 Similar is a configurable tool for logic design and simulation for educational purposes. Depending on the demands of classes features may be activated or may be hidden to users. In the most primitive setting, flat and hierarchical designs can be designed and simulated without timing. Advanced features include logic gates with multi-bit ports, VHDL's 9-valued logic including resolution functions, transport and inertial delays for combinational gates, setup-times for sequential gates and a primitive model for metastable behavior of flipflops. Simulation runs are illustrated by means of a waveform viewer.<br>
 Similar uses Espresso from UCB for two-level optimization for large circuits and explains optimization by means of Karnaugh maps for small switching functions. An additional editor allows entry and simulation of Moore and Mealy machines. Moreover, state transition and output functions may be synthesized and simulated on gate level, too.<br>
 Structural VHDL code of hierarchical designs may be generated for usage in common VHDL simulation environments.<br>
